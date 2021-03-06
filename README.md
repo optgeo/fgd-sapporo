@@ -12,4 +12,4 @@ sys     10m55.364s
 ```
 
 # See also
-https://github.com/unvt/fgd - Produce vector tiles from Japanese Fundamental Geospatial Data (FGD), a tool in the UN Vector Tile Toolkit (UNVT)
+https://github.com/unvt/fgd - A tool in the UN Vector Tile Toolkit (UNVT) to produce vector tiles from Japanese Fundamental Geospatial Data (FGD)
